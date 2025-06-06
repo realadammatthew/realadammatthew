@@ -127,3 +127,15 @@ I typically work on engagements of **$5K+**, depending on the scope. Final prici
 * X/Twitter: [@realadammatthew](https://x.com/realadammatthew)
 
 *Let's build something thoughtful, scalable, and resilient! [Email me](mailto:adam@matthewsteinberger.com) to get started.*
+
+---
+
+## Support My Work
+
+If you like what I’m building—or just appreciate that I’m not turning everything into a JavaScript framework—you can support my work here:
+
+☕ [Buy Me a Coffee](https://coff.ee/realadammatthew)
+
+It helps me stay focused on open infrastructure, privacy-respecting tools, and the occasional rogue AI agent that doesn’t immediately try to sell you something.
+
+No pressure. But if you’re the kind of person who supports quiet, useful, weirdly specific tech, I see you—and I appreciate you.

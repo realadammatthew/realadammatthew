@@ -21,7 +21,7 @@ Backend-focused developer and architect with deep experience in cloud infrastruc
 * End-to-end architecture, development, and deployment of **APIs**, **webhooks**, and **integrations**
 * Experience with **microservices**, **gRPC**, **message queues**, and **onion architecture**
 * Development in **JavaScript**, **.NET**, and **Python**
-* Cloud-native and on-premise systems using **Azure**, **AWS**, and **Ubuntu Server**
+* Cloud-native and on-premise systems using **Azure**, **AWS**, **DigitalOcean** (great for small businesses), and **Ubuntu Server**
 * Frameworks include **Flask**, **NestJS**, and **ASP.NET WebAPI**
 * Experience with **Azure Functions** and **AWS Lambdas**
 * Proficient in **CI/CD pipelines**, **automated testing**, and **linting**
@@ -111,6 +111,8 @@ If that’s you, I offer:
 ---
 
 > **Note**: I do not build or front costs for custom hardware (e.g. servers, nodes, network equipment). If your project requires hardware, you are responsible for purchasing and shipping it. Hardware costs are **not included** in any of the pricing listed above.
+> 
+> **Also Note**: I typically do **not** begin work until I’ve received payment for the first project milestone and have been provided with any required tools—this may include custom hardware, API keys, service credentials, or other third-party dependencies.
 
 ---
 

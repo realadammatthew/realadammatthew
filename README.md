@@ -116,7 +116,11 @@ If that’s you, I offer:
 
 ---
 
-I typically work on engagements of **$5K+**, depending on the scope. Final pricing depends on complexity, deliverables, and timeline. Let’s figure out what makes sense for your goals.
+I believe in the importance of valuing time and expertise, and I ensure that my charges reflect this. For for-profit companies engaging in per-hour projects, I charge a minimum of `$120/hr`. This is not an arbitrary figure but a reflection of the high technical skills required and the substantial investment I've made in the tools needed to deliver quality results. For a month-long project (4 weeks) working 40 hours per week, this would equate to approximately **$20K**.
+
+If you find my rates to be higher than those you've encountered elsewhere, I encourage you to trust in the services I offer. The intricate nature of the work I do and the expense of maintaining and updating cutting-edge tools make these rates industry-standard. I value my time and expertise just as much as you do, and I strive to deliver the best possible results in the most efficient manner.
+
+Also, I typically work on engagements of no less than **$5K**, depending on the scope. Final pricing depends on complexity, deliverables, and timeline. Let’s figure out what makes sense for your goals.
 
 ---
 

@@ -124,6 +124,18 @@ Also, I typically work on engagements of no less than **$5K**, depending on the 
 
 ---
 
+## See For Yourself
+
+Want to kick the tires before we talk? No problem—take a spin through my recent work:
+
+> [**Portfolio / Hire Me Page**](https://hire.adam.matthewsteinberger.com/)
+
+> [**Live Demo - Custom Chatbot**](https://chat.adam.matthewsteinberger.com/)
+
+Whether you’re looking for backend muscle, AI deployment finesse, or privacy-first infrastructure—you’ll get a feel for how I build, document, and think.
+
+---
+
 ## How to Get In Touch
 
 * Email: [adam@matthewsteinberger.com](mailto:adam@matthewsteinberger.com)

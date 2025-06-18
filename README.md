@@ -129,8 +129,9 @@ Also, I typically work on engagements of no less than **$5K**, depending on the 
 * Email: [adam@matthewsteinberger.com](mailto:adam@matthewsteinberger.com)
 * GitHub: [@realadammatthew](https://github.com/realadammatthew)
 * X/Twitter: [@realadammatthew](https://x.com/realadammatthew)
+* TidyCal: [@realadammatthew](https://tidycal.com/realadammatthew)
 
-*Let's build something thoughtful, scalable, and resilient! [Email me](mailto:adam@matthewsteinberger.com) to get started.*
+*Let's build something thoughtful, scalable, and resilient! Schedule your [free consultation](https://tidycal.com/realadammatthew) today to get started!*
 
 ---
 

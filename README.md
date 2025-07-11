@@ -139,6 +139,7 @@ Whether you’re looking for backend muscle, AI deployment finesse, or privacy-f
 ## How to Get In Touch
 
 * Email: [adam@matthewsteinberger.com](mailto:adam@matthewsteinberger.com)
+* LinkedIn: [@realadammatthew](https://linkedin.com/in/realadammatthew)
 * GitHub: [@realadammatthew](https://github.com/realadammatthew)
 * X/Twitter: [@realadammatthew](https://x.com/realadammatthew)
 * TidyCal: [@realadammatthew](https://tidycal.com/realadammatthew)

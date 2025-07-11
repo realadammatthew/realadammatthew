@@ -14,7 +14,7 @@ Backend-focused developer and architect with deep experience in cloud infrastruc
 * Experience with both local models (e.g. **Mistral**, **LLaMa**) and cloud-based solutions (**ChatGPT**, **Anthropic**, **Gemini**)
 * **AI automation** via agents built in **n8n**
 * **Web-based chat** integrations using **openwebui**
-* Experimental **“vibe” coding** using **Roo** or **Cline** (via API) and **Warp Terminal**
+* Experimental **“vibe” coding** using **Roo**, **Cline**, **Cursor** and **Warp Terminal**
 
 ## Software Development & Architecture
 
@@ -61,7 +61,7 @@ Backend-focused developer and architect with deep experience in cloud infrastruc
 
 * Trained in **Agile/Scrum** methodologies
 * Comfortable **leading teams** and collaborating with **stakeholders**
-* Known for being **collaborative**, **adaptable**, and having a **pretty good sense of humor**
+* Known for being **collaborative**, **adaptable**, and **deeply personable**
 
 ---
 
@@ -124,36 +124,16 @@ Also, I typically work on engagements of no less than **$5K**, depending on the 
 
 ---
 
-## See For Yourself
-
-Want to kick the tires before we talk? No problem—take a spin through my recent work:
-
-> [**Portfolio / Hire Me Page**](https://hire.adam.matthewsteinberger.com/)
-
-> [**Live Demo - Custom Chatbot**](https://chat.adam.matthewsteinberger.com/)
-
-Whether you’re looking for backend muscle, AI deployment finesse, or privacy-first infrastructure—you’ll get a feel for how I build, document, and think.
-
----
-
 ## How to Get In Touch
 
-* Email: [adam@matthewsteinberger.com](mailto:adam@matthewsteinberger.com)
+* Portfolio: [hire.adam.matthewsteinberger.com](https://hire.adam.matthewsteinberger.com/)
+* Demo: [chat.adam.matthewsteinberger.com](https://chat.adam.matthewsteinberger.com/)
 * LinkedIn: [@realadammatthew](https://linkedin.com/in/realadammatthew)
 * GitHub: [@realadammatthew](https://github.com/realadammatthew)
 * X/Twitter: [@realadammatthew](https://x.com/realadammatthew)
 * TidyCal: [@realadammatthew](https://tidycal.com/realadammatthew)
+* Coff.ee: [@realadammatthew](https://coff.ee/realadammatthew)
+* Email: [adam@matthewsteinberger.com](mailto:adam@matthewsteinberger.com)
+* Phone: [+1-864-517-4117](tel:+1-864-517-4117)
 
 *Let's build something thoughtful, scalable, and resilient! Schedule your [free consultation](https://tidycal.com/realadammatthew) today to get started!*
-
----
-
-## Support My Work
-
-If you like what I’m building—or just appreciate that I’m not turning everything into a JavaScript framework—you can support my work here:
-
-☕ [Buy Me a Coffee](https://coff.ee/realadammatthew)
-
-It helps me stay focused on open infrastructure, privacy-respecting tools, and the occasional rogue AI agent that doesn’t immediately try to sell you something.
-
-No pressure. But if you’re the kind of person who supports quiet, useful, weirdly specific tech, I see you—and I appreciate you.

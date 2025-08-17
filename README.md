@@ -124,6 +124,23 @@ Also, I typically work on engagements of no less than **$5K**, depending on the 
 
 ---
 
+## Employment Opportunities
+
+In addition to consulting, I am actively open to **W2 full-time employment**. My **minimum annual salary requirement is \$165,000**.
+
+⚠️ Please note: My **consulting rates** (e.g., **\$120/hr**) apply **strictly to consulting engagements** and are **not** to be considered as full-time employment equivalents.
+
+I am especially interested in roles that align with my expertise in:
+
+* **Backend and API development**
+* **Cloud infrastructure and DevOps**
+* **AI/LLM deployment and integration**
+* **Privacy-first, decentralized, and resilient systems**
+
+If you’re seeking a dedicated full-time engineer or architect who thrives in backend, AI, and cloud systems while bringing clarity and adaptability to complex projects, I’d love to talk.
+
+---
+
 ## How to Get In Touch
 
 * Portfolio: [hire.adam.matthewsteinberger.com](https://hire.adam.matthewsteinberger.com/)
